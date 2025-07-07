@@ -33,10 +33,10 @@ Here are some ideas for improving or extending the project:
 - Implement a **dark mode toggle**
 - Add **mobile responsiveness improvements**
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙌 Credits
+## Credits
 
 Created by [Alicia Osayi] — feel free to fork, use, or improve this project.

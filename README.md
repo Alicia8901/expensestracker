@@ -1,22 +1,26 @@
-# 💰 Expenses Tracker
+# Expenses Tracker
 
 A simple, beginner-friendly Expense Tracker web app built with HTML, CSS, and JavaScript. It allows users to add income and expense transactions, view a running balance, and track their spending history.
 
-## 🚀 Features
+## Features
 
 - Add income and expense transactions
 - See updated balance, income, and expense totals
 - View transaction history
 - Responsive and clean design
 - Built with pure HTML, CSS, and JavaScript — no frameworks!
+  
+## Live Demo
 
-## 📂 How to Run
+https://alicia8901.github.io/expensestracker/
+
+## How to Run
 
 1. Clone or download the repository
 2. Make sure all files are in the same folder
 3. Open `index.html` in your browser (double-click or right-click → open with browser)
 
-## 💡 Improvements
+## Improvements
 
 Here are some ideas for improving or extending the project:
 
